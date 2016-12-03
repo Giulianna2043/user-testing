@@ -15,12 +15,10 @@
     } 
     button
     {
-        text-align: center;
-        
-        
+        text-align: center;    
     }
     
-   .col-md-9   .i
+   header .col-md-9   .i
     {
        display: inline-block;
         float: right;
@@ -32,3 +30,12 @@
     {
         display: none;
     }
+    .ejemplo .flecha
+    {
+        text-align: center;
+    } 
+    .pasos  .pasos-info 
+    {
+        display: none
+    }
+}
