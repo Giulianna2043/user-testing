@@ -1,0 +1,34 @@
+@media (max-width: 900px)
+{
+    .container
+    {
+        width: 700px;
+    }
+}
+
+
+@media (max-width: 600px)
+{
+    .container
+    {
+        width: 80%;
+    } 
+    button
+    {
+        text-align: center;
+        
+        
+    }
+    
+   .col-md-9   .i
+    {
+       display: inline-block;
+        float: right;
+        color: black;
+        font-size: 50px; 
+        
+    }
+     .list-inline
+    {
+        display: none;
+    }
